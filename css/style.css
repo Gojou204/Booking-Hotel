@@ -91,6 +91,7 @@ header {
 
 .subheader .socials {
   float: right;
+  color: #fff;
 }
 
 
@@ -111,13 +112,15 @@ header {
   font-size: 12px;
 }
 
-.socials img {
+.socials a {
   margin-top: 5px;
   margin-left: 5px;
+  color: #fff;
 }
 
-.socials img:hover{
+.socials a:hover{
   opacity: 0.8;
+  color: #2190d7;
 }
 
 
